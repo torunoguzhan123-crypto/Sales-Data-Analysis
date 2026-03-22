@@ -12,6 +12,3 @@ This is my first data project. I am a 1st-year student. I use this project to le
 1. Big discounts (like 30%) make the profit go down.
 2. Some cities buy more products every year.
 3. Fast shipping usually means more profit.
-
-## Dashboard Image
-![Dashboard](pbprojepicture.jpg)
